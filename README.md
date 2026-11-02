@@ -1,2 +1,0 @@
-# DetectiveXML
-Hayırlı işler 
